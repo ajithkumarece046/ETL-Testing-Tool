@@ -1,0 +1,9 @@
+{
+    "driver": "{SQL Server}",
+    "server": "azure-dp-203.database.windows.net",
+    "database": "azure-dp-db",
+    "tables": "FulfillmentMetrics",
+    "username": "azuredp203",
+    "password": "Optisol@2024"
+
+}
